@@ -1,0 +1,7 @@
+tunnels:
+  primary:
+    proto: http
+    addr: 30000
+  iframe:
+    proto: http
+    addr: 30001
