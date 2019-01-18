@@ -1,7 +1,7 @@
 tunnels:
   primary:
     proto: http
-    addr: 30000
+    addr: 3030
   iframe:
     proto: http
-    addr: 30001
+    addr: 3031
